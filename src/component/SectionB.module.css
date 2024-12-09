@@ -1,0 +1,58 @@
+.sec3{
+  height: 500px;
+  width: 1300px;
+  display: flex;
+  border: 2px solid red;
+  margin: auto;
+  margin-top: 20px;
+}
+.sec4{
+  height: 500px;
+  width: 260px;
+  /* border: 2px solid red; */
+  float: left;
+  margin-right: 25px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  /* border-radius: 15px; */
+}
+.sec5{
+  height: 500px;
+  width: 1000px;
+  border: 2px solid blue;
+  margin-left: 25px;
+  float: left;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 0px 25px 0px 25px;
+}
+.img1, .img3, .img5{
+  height: 160px;
+  width: 295px;
+  border: 2px solid red;
+  background-size: auto;
+  overflow: hidden;
+  border-radius: 15px;
+  /* display: inline-block; */
+}
+.img2, .img4, .img6{
+  height: 320px;
+  width: 295px;
+  border: 2px solid red;
+  border-radius: 15px;
+  background-size: contain;
+  
+}
+.img4, .img6{
+ position: relative;
+ top: -160px;
+}
+
+/* .img1, .img2, .img3{ */
+  /* background-image: url('./Assests/blog1.png'); */
+/* } */
+/* .img4, .img5, .img6{ */
+  /* background-image: url('./Assests/Tab.png'); */
+/* } */

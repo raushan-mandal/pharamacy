@@ -1,0 +1,12 @@
+.section{
+  height: 400px;
+  width: 70vw;
+  background-color: #17414F;
+  margin: auto;
+  margin-top: -200px;
+  padding-left: 5vw;
+  padding-right: 5vw;
+  border-radius: 40px;
+  display: flex;
+  flex-wrap: wrap;
+}

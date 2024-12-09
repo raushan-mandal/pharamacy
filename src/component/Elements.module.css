@@ -1,0 +1,38 @@
+.elem {
+  height: 22vh;
+  width: 15vw;
+  /* border: 2px solid red; */
+  margin: 4vw;
+  margin-bottom: 0.5vw;
+  position: relative;
+  top: -7vw;
+  /* float: left; */
+  text-align: center;
+}
+
+.Text {
+  font-family: Jost;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 40px;
+  letter-spacing: 0.07999999821186066px;
+  text-align: center;
+  text-underline-position: from-font;
+  /* text-decoration-skip-ink: none; */
+
+  color: #ffffff;
+}
+
+.p {
+  font-family: Jost;
+  font-size: 10px;
+  /* font-weight: 300; */
+  line-height: 14px;
+  width: 170px;
+  letter-spacing: 0.08px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  opacity: 0.7;
+  margin: auto;
+}

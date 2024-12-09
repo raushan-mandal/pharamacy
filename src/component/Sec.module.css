@@ -1,0 +1,26 @@
+.comp{
+  height: 200px;
+  width: 375px;
+  border: 2px solid red;
+  float: left;
+  /* margin: 50px; */
+  /* margin-right: 20px; */
+  margin-top: 0px;
+  margin-bottom: 10px;
+  background-color: #E2F5FB;
+  border-radius: 10px;
+  
+}
+.see{
+  margin-top: 50px;
+  margin-left: 20px;
+  border: none;
+  /* background-color: none; */
+}
+.Vita{
+  margin: 20px;
+}
+.Cont{
+  margin-top: 40px;
+  margin-left: 20px;
+}

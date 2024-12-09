@@ -1,0 +1,21 @@
+.div3{
+  height: 80px;
+  width: 1200px;
+  border: 2px solid blue;
+  margin: auto;
+  margin-top: 20px;
+  /* text-align: center; */
+}
+.content{
+  width: 200px;
+  line-height: 25px;
+  margin-top: 5px;
+  margin-left: 500px;
+  /* border: 2px solid red; */
+  text-align: center;
+
+}
+.E2{
+  margin-left: 5px;
+  font-size: 35px;
+}
