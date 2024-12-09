@@ -1,4 +1,4 @@
-import Logo from "./component/logo";
+import Logo from "./component/Logo";
 import Header from "./component/Header";
 import Section from "./component/Section";
 import Sections from "./component/Sections";
